@@ -73,7 +73,7 @@ grafana:
 iotService:
   enabled: true
   image:
-    repository: nathandiez12/iot-service
+    repository: raraid/iot-service
     tag: "latest"
     pullPolicy: IfNotPresent
   service:

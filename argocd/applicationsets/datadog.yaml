@@ -16,7 +16,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: https://github.com/nathandiez/iots6_aws_oss.git
+        repoURL: https://github.com/ecode99/iots6_aws_oss.git
         targetRevision: HEAD
         path: datadog-chart
       destination:
